@@ -4,6 +4,8 @@ how r u?
 
 today i learn some linux command
 pwd
-mk
+mkdir
 cd
 ls
+touch
+
