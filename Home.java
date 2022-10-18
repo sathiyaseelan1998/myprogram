@@ -6,6 +6,7 @@ int ebRead(int unit){
     return amount;
 }
 
+
 public static void main(String arg[]){
 
     Home h=new Home();
