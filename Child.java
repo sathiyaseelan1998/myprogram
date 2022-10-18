@@ -11,7 +11,7 @@ public static void main(String args[]){
 Child child=new Child();
 System.out.println("Name:"+child.name);
 System.out.println("Age:"+child.age);
-System.out.println("Address:"+child.age);
+System.out.println("Address:"+child.address);
 
 child.salary();
 String profession=child.profession();
