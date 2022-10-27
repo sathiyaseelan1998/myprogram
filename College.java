@@ -9,6 +9,8 @@ static void address(){
 
     System.out.println("trichy");
 }
-
+void noOfSudent(){
+    System.out.println("fifty thousand");
+}
 
 }
